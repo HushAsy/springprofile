@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springprofile:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-profile.war">
+      <element id="artifact" artifact-name="springprofile:war exploded" />
+    </root>
+  </artifact>
+</component>
